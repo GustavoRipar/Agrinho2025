@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fdf6e3;
+  color: #4b3621;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #8b5e3c;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.produtos {
+  padding: 20px;
+  background-color: #e6d3b3;
+}
+
+.produto {
+  margin-bottom: 20px;
+  border-left: 5px solid #6b4226;
+  padding-left: 10px;
+  
+}
+
+.contato {
+  background-color: #c2b280;
+  padding: 20px;
+}
+
+footer {
+  background-color: #8b5e3c;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
